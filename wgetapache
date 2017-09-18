@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/fgarcia-humanoide/apache/master/ssl-config.sh ; https://raw.githubusercontent.com/fgarcia-humanoide/apache/master/letsencrypt.sh
+wget https://raw.githubusercontent.com/fgarcia-humanoide/apache/master/ssl-config.sh ; wget https://raw.githubusercontent.com/fgarcia-humanoide/apache/master/letsencrypt.sh
